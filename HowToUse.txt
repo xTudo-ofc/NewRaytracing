@@ -1,0 +1,9 @@
+	How to use this product?
+
+	1 method NVIDIA
+	Get your suported or non-suported game and simpply drop down your ansel folder all the files *ALERT didn't drop down the folder drop down the files remove inside of the folder all files and drop down inside the ansel folder* after that is done! you can use any preset!
+	2 method reshade or roshade
+	get your reshade shaders folder and simply drop the folder NewRaytracing Ansel and Unreal Raytracing inside of reshade shaders directory. *ALERT if unreal Raytracing folder is inside of another like NewRaytracing Ansel put the unreal raytracing folder inside reshade or roshade directory.* if you have any issues simply remove the files from the folder's
+
+
+	Recommended game: Roblox, the preset's are made'n inside of roblox probably inside of another games like roblox will work too.
